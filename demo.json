@@ -1,47 +1,24 @@
 [
-  {
-    "name": "Pasta Carbonara",
-    "category": "Italian",
-    "imageName": "pasta_carbonara",
-    "description": "A classic pasta dish made with eggs, bacon, and cheese.",
-    "instructions": [
-      "Cook the pasta according to package instructions until al dente.",
-      "In a separate pan, fry the bacon until crispy. Remove from pan and set aside.",
-      "In a bowl, whisk together the eggs and Parmesan cheese.",
-      "Add the cooked pasta to the bacon pan and toss to coat in the bacon fat.",
-      "Remove from heat and pour the egg mixture over the pasta, stirring quickly to prevent it from scrambling.",
-      "Serve immediately, topped with extra Parmesan cheese and black pepper."
-    ],
-    "rating": 4.5,
-    "ingredients": [
-      { "name": "Spaghetti", "amountInGrams": 200 },
-      { "name": "Bacon", "amountInGrams": 150 },
-      { "name": "Eggs", "amountInGrams": 2 },
-      { "name": "Parmesan Cheese", "amountInGrams": 50 }
-    ]
-  },
-  {
-    "name": "Chicken Tikka Masala",
-    "category": "Indian",
-    "imageName": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
-    "description": "A creamy and flavorful chicken curry made with aromatic spices.",
-    "instructions": [
-      "Marinate the chicken in yogurt and spices for at least an hour.",
-      "Grill or broil the chicken until cooked through and slightly charred on the outside.",
-      "In a separate pan, sauté onion, garlic, and ginger until soft.",
-      "Add tomatoes and simmer until the sauce has thickened.",
-      "Add the cooked chicken to the sauce and stir in cream to create a rich and creamy texture.",
-      "Serve hot with rice or naan bread."
-    ],
-    "rating": 4.8,
-    "ingredients": [
-      { "name": "Chicken Thighs", "amountInGrams": 500 },
-      { "name": "Plain Yogurt", "amountInGrams": 200 },
-      { "name": "Tomatoes", "amountInGrams": 400 },
-      { "name": "Onion", "amountInGrams": 100 },
-      { "name": "Garlic", "amountInGrams": 10 },
-      { "name": "Ginger", "amountInGrams": 10 },
-      { "name": "Heavy Cream", "amountInGrams": 100 }
-    ]
-  }
+    {
+        "name": "Pizza Margherita",
+        "category": "Pizza",
+        "imageName": "pizza_margherita",
+        "description": "Die wohl bekannteste Pizza-Variante mit Tomate, Mozzarella und Basilikum.",
+        "ingredients": [
+            {"name": "Mehl", "quantity": 250},
+            {"name": "Hefe", "quantity": 7},
+            {"name": "Wasser", "quantity": 150},
+            {"name": "Tomatensoße", "quantity": 200},
+            {"name": "Mozzarella", "quantity": 125},
+            {"name": "Basilikum", "quantity": 5}
+        ],
+        "instructions": [
+            "Das Mehl in eine Schüssel geben und eine Mulde in die Mitte drücken.",
+            "Hefe in Wasser auflösen und in die Mulde gießen.",
+            "Mit einem Löffel das Mehl vom Rand nach innen schieben und kneten, bis der Teig elastisch ist.",
+            "Den Teig abgedeckt an einem warmen Ort für ca. 1"
+        ],
+        "rating": 4
+    }
+
 ]

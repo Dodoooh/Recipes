@@ -1,45 +1,90 @@
 [
     {
-        "name": "Pizza Margherita",
-        "category": "Pizza",
-        "imageName": "pizza_margherita",
-        "description": "Die wohl bekannteste Pizza-Variante mit Tomate, Mozzarella und Basilikum.",
-        "ingredients": [
-            {"name": "Mehl", "quantity": 250},
-            {"name": "Hefe", "quantity": 7},
-            {"name": "Wasser", "quantity": 150},
-            {"name": "Tomatensoße", "quantity": 200},
-            {"name": "Mozzarella", "quantity": 125},
-            {"name": "Basilikum", "quantity": 5}
-        ],
+        "name": "Spaghetti and Meatballs",
+        "category": "Pasta",
+        "imageName": "spaghetti",
+        "description": "Classic spaghetti and meatballs recipe.",
         "instructions": [
-            "Das Mehl in eine Schüssel geben und eine Mulde in die Mitte drücken.",
-            "Hefe in Wasser auflösen und in die Mulde gießen.",
-            "Mit einem Löffel das Mehl vom Rand nach innen schieben und kneten, bis der Teig elastisch ist.",
-            "Den Teig abgedeckt an einem warmen Ort für ca. 1"
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Mix together ground beef, bread crumbs, egg, onion, salt, and pepper in a bowl until well combined. Form into balls and place on a baking sheet.",
+            "Bake meatballs for 20-25 minutes or until fully cooked.",
+            "Meanwhile, cook spaghetti according to package instructions.",
+            "Heat up marinara sauce in a separate pot.",
+            "Combine spaghetti, meatballs, and sauce together in a large pot and stir until fully coated.",
+            "Serve hot and enjoy!"
         ],
-        "rating": 4
+        "rating": 4,
+        "ingredients": [
+            {
+                "name": "Ground beef",
+                "quantity": 1
+            },
+            {
+                "name": "Bread crumbs",
+                "quantity": 0.5
+            },
+            {
+                "name": "Egg",
+                "quantity": 1
+            },
+            {
+                "name": "Onion",
+                "quantity": 0.5
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.5
+            },
+            {
+                "name": "Pepper",
+                "quantity": 0.25
+            },
+            {
+                "name": "Spaghetti",
+                "quantity": 1
+            },
+            {
+                "name": "Marinara sauce",
+                "quantity": 1
+            }
+        ]
     },
     {
-        "name": "Dinner Margherita",
-        "category": "Dinner",
-        "imageName": "pizza_margherita",
-        "description": "Die wohl bekannteste Pizza-Variante mit Tomate, Mozzarella und Basilikum.",
-        "ingredients": [
-            {"name": "Mehl", "quantity": 250},
-            {"name": "Hefe", "quantity": 7},
-            {"name": "Wasser", "quantity": 150},
-            {"name": "Tomatensoße", "quantity": 200},
-            {"name": "Mozzarella", "quantity": 125},
-            {"name": "Basilikum", "quantity": 5}
-        ],
+        "name": "Chicken Caesar Salad",
+        "category": "Salad",
+        "imageName": "caesar",
+        "description": "A classic Caesar salad topped with grilled chicken.",
         "instructions": [
-            "Das Mehl in eine Schüssel geben und eine Mulde in die Mitte drücken.",
-            "Hefe in Wasser auflösen und in die Mulde gießen.",
-            "Mit einem Löffel das Mehl vom Rand nach innen schieben und kneten, bis der Teig elastisch ist.",
-            "Den Teig abgedeckt an einem warmen Ort für ca. 1"
+            "Season chicken breasts with salt and pepper.",
+            "Grill chicken on medium-high heat until fully cooked.",
+            "Chop romaine lettuce and place in a large bowl.",
+            "Add croutons and Parmesan cheese to the bowl.",
+            "Pour Caesar dressing over the salad and toss until fully coated.",
+            "Slice chicken breast and place on top of the salad.",
+            "Serve and enjoy!"
         ],
-        "rating": 5
+        "rating": 5,
+        "ingredients": [
+            {
+                "name": "Chicken breast",
+                "quantity": 2
+            },
+            {
+                "name": "Romaine lettuce",
+                "quantity": 1
+            },
+            {
+                "name": "Croutons",
+                "quantity": 0.5
+            },
+            {
+                "name": "Parmesan cheese",
+                "quantity": 0.25
+            },
+            {
+                "name": "Caesar dressing",
+                "quantity": 0.5
+            }
+        ]
     }
-
 ]

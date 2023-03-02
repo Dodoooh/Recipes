@@ -19,6 +19,27 @@
             "Den Teig abgedeckt an einem warmen Ort für ca. 1"
         ],
         "rating": 4
+    },
+    {
+        "name": "Dinner Margherita",
+        "category": "Dinner",
+        "imageName": "pizza_margherita",
+        "description": "Die wohl bekannteste Pizza-Variante mit Tomate, Mozzarella und Basilikum.",
+        "ingredients": [
+            {"name": "Mehl", "quantity": 250},
+            {"name": "Hefe", "quantity": 7},
+            {"name": "Wasser", "quantity": 150},
+            {"name": "Tomatensoße", "quantity": 200},
+            {"name": "Mozzarella", "quantity": 125},
+            {"name": "Basilikum", "quantity": 5}
+        ],
+        "instructions": [
+            "Das Mehl in eine Schüssel geben und eine Mulde in die Mitte drücken.",
+            "Hefe in Wasser auflösen und in die Mulde gießen.",
+            "Mit einem Löffel das Mehl vom Rand nach innen schieben und kneten, bis der Teig elastisch ist.",
+            "Den Teig abgedeckt an einem warmen Ort für ca. 1"
+        ],
+        "rating": 5
     }
 
 ]

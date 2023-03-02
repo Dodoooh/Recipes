@@ -1,75 +1,47 @@
 [
   {
-    "id": 1,
-    "name": "Lasagne",
-    "category": "Pasta",
-    "ingredients": [
-      "500g Hackfleisch",
-      "1 Zwiebel",
-      "2 Knoblauchzehen",
-      "1 Dose Tomaten",
-      "150g geriebener Käse",
-      "Lasagne-Platten"
-    ],
-    "description": "Ein klassisches Lasagne-Rezept mit Hackfleisch, Tomaten und Käse.",
+    "name": "Pasta Carbonara",
+    "category": "Italian",
+    "imageName": "pasta_carbonara",
+    "description": "A classic pasta dish made with eggs, bacon, and cheese.",
     "instructions": [
-      "Ofen auf 180°C vorheizen.",
-      "Zwiebel und Knoblauch fein hacken und in einer Pfanne anbraten.",
-      "Hackfleisch hinzufügen und anbraten, bis es braun wird.",
-      "Tomatendose hinzufügen und 10 Minuten köcheln lassen.",
-      "Eine Auflaufform mit einer Schicht Lasagne-Platten bedecken, dann eine Schicht Hackfleischsoße, dann eine Schicht Käse. Wiederholen Sie dies bis alle Zutaten verwendet sind.",
-      "Im Ofen für 30 Minuten backen.",
-      "Aus dem Ofen nehmen und 5 Minuten ruhen lassen, bevor Sie servieren."
+      "Cook the pasta according to package instructions until al dente.",
+      "In a separate pan, fry the bacon until crispy. Remove from pan and set aside.",
+      "In a bowl, whisk together the eggs and Parmesan cheese.",
+      "Add the cooked pasta to the bacon pan and toss to coat in the bacon fat.",
+      "Remove from heat and pour the egg mixture over the pasta, stirring quickly to prevent it from scrambling.",
+      "Serve immediately, topped with extra Parmesan cheese and black pepper."
     ],
-    "image_url": "https://example.com/lasagne.jpg"
+    "rating": 4.5,
+    "ingredients": [
+      { "name": "Spaghetti", "amountInGrams": 200 },
+      { "name": "Bacon", "amountInGrams": 150 },
+      { "name": "Eggs", "amountInGrams": 2 },
+      { "name": "Parmesan Cheese", "amountInGrams": 50 }
+    ]
   },
   {
-    "id": 2,
-    "name": "Gebratener Lachs",
-    "category": "Fisch",
-    "ingredients": [
-      "2 Lachsfilets (je 150g)",
-      "1 Zitrone",
-      "2 EL Butter",
-      "Salz",
-      "Pfeffer",
-      "1 TL Paprikapulver"
-    ],
-    "description": "Ein einfaches und leckeres Rezept für gebratenen Lachs.",
+    "name": "Chicken Tikka Masala",
+    "category": "Indian",
+    "imageName": "chicken_tikka_masala",
+    "description": "A creamy and flavorful chicken curry made with aromatic spices.",
     "instructions": [
-      "Lachs waschen und trocken tupfen.",
-      "Zitrone in dünne Scheiben schneiden.",
-      "Butter in einer Pfanne schmelzen lassen.",
-      "Lachsfilets mit Salz, Pfeffer und Paprika würzen.",
-      "Lachsfilets in die Pfanne geben und auf beiden Seiten für 3-4 Minuten braten.",
-      "Die Zitronenscheiben auf den Lachs legen und weitere 2 Minuten garen.",
-      "Aus der Pfanne nehmen und servieren."
+      "Marinate the chicken in yogurt and spices for at least an hour.",
+      "Grill or broil the chicken until cooked through and slightly charred on the outside.",
+      "In a separate pan, sauté onion, garlic, and ginger until soft.",
+      "Add tomatoes and simmer until the sauce has thickened.",
+      "Add the cooked chicken to the sauce and stir in cream to create a rich and creamy texture.",
+      "Serve hot with rice or naan bread."
     ],
-    "image_url": "https://example.com/lachs.jpg"
-  },
-  {
-    "id": 3,
-    "name": "Gemüsesuppe",
-    "category": "Suppe",
+    "rating": 4.8,
     "ingredients": [
-      "2 Karotten (200g)",
-      "2 Kartoffeln (300g)",
-      "1 Zucchini (150g)",
-      "1 Zwiebel",
-      "2 Knoblauchzehen",
-      "1 Liter Gemüsebrühe",
-      "Salz",
-      "Pfeffer"
-    ],
-    "description": "Eine einfache und gesunde Suppe mit verschiedenen Gemüsesorten.",
-    "instructions": [
-      "Karotten, Kartoffeln, Zucchini, Zwiebel und Knoblauch schälen und in kleine Stücke schneiden.",
-      "Gemüse in einem Topf mit etwas Öl anbraten.",
-      "Gemüsebrühe hinzufügen und zum Kochen bringen.",
-      "Hitze reduzieren und die Suppe für 20 Minuten köcheln lassen.",
-      "Mit Salz und Pfeffer abschmecken.",
-      "Heiß servieren."
-    ],
-    "image_url": "https://example.com/suppe.jpg"
+      { "name": "Chicken Thighs", "amountInGrams": 500 },
+      { "name": "Plain Yogurt", "amountInGrams": 200 },
+      { "name": "Tomatoes", "amountInGrams": 400 },
+      { "name": "Onion", "amountInGrams": 100 },
+      { "name": "Garlic", "amountInGrams": 10 },
+      { "name": "Ginger", "amountInGrams": 10 },
+      { "name": "Heavy Cream", "amountInGrams": 100 }
+    ]
   }
 ]

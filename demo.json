@@ -1,90 +1,113 @@
 [
-    {
-        "name": "Spaghetti and Meatballs",
-        "category": "Pasta",
-        "imageName": "spaghetti",
-        "description": "Classic spaghetti and meatballs recipe.",
-        "instructions": [
-            "Preheat oven to 400 degrees F (200 degrees C).",
-            "Mix together ground beef, bread crumbs, egg, onion, salt, and pepper in a bowl until well combined. Form into balls and place on a baking sheet.",
-            "Bake meatballs for 20-25 minutes or until fully cooked.",
-            "Meanwhile, cook spaghetti according to package instructions.",
-            "Heat up marinara sauce in a separate pot.",
-            "Combine spaghetti, meatballs, and sauce together in a large pot and stir until fully coated.",
-            "Serve hot and enjoy!"
-        ],
-        "rating": 4,
-        "ingredients": [
-            {
-                "name": "Ground beef",
-                "quantity": 1
-            },
-            {
-                "name": "Bread crumbs",
-                "quantity": 0.5
-            },
-            {
-                "name": "Egg",
-                "quantity": 1
-            },
-            {
-                "name": "Onion",
-                "quantity": 0.5
-            },
-            {
-                "name": "Salt",
-                "quantity": 0.5
-            },
-            {
-                "name": "Pepper",
-                "quantity": 0.25
-            },
-            {
-                "name": "Spaghetti",
-                "quantity": 1
-            },
-            {
-                "name": "Marinara sauce",
-                "quantity": 1
-            }
-        ]
-    },
-    {
-        "name": "Chicken Caesar Salad",
-        "category": "Salad",
-        "imageName": "caesar",
-        "description": "A classic Caesar salad topped with grilled chicken.",
-        "instructions": [
-            "Season chicken breasts with salt and pepper.",
-            "Grill chicken on medium-high heat until fully cooked.",
-            "Chop romaine lettuce and place in a large bowl.",
-            "Add croutons and Parmesan cheese to the bowl.",
-            "Pour Caesar dressing over the salad and toss until fully coated.",
-            "Slice chicken breast and place on top of the salad.",
-            "Serve and enjoy!"
-        ],
-        "rating": 5,
-        "ingredients": [
-            {
-                "name": "Chicken breast",
-                "quantity": 2
-            },
-            {
-                "name": "Romaine lettuce",
-                "quantity": 1
-            },
-            {
-                "name": "Croutons",
-                "quantity": 0.5
-            },
-            {
-                "name": "Parmesan cheese",
-                "quantity": 0.25
-            },
-            {
-                "name": "Caesar dressing",
-                "quantity": 0.5
-            }
-        ]
-    }
+  {
+    "id": "F3ED13C3-0BCC-4792-B8D5-78E91FADDF79",
+    "name": "Spaghetti Bolognese",
+    "category": "Pasta",
+    "imageName": "spaghetti.jpg",
+    "description": "Ein klassisches Nudelgericht aus Italien",
+    "instructions": [
+      "Nudeln in Salzwasser kochen",
+      "Hackfleisch anbraten und mit Tomatensauce vermengen",
+      "Nudeln mit Sauce servieren"
+    ],
+    "rating": 4,
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "amount": "500g"
+      },
+      {
+        "name": "Hackfleisch",
+        "amount": "250g"
+      },
+      {
+        "name": "Tomatensauce",
+        "amount": "400g"
+      }
+    ]
+  },
+  {
+    "id": "8A93E9B1-08E7-47F0-8C20-14A4E4D4A483",
+    "name": "Chicken Curry",
+    "category": "Curry",
+    "imageName": "curry.jpg",
+    "description": "Ein würziges Hähnchengericht aus Indien",
+    "instructions": [
+      "Hähnchenbrustfilet in Würfel schneiden und anbraten",
+      "Zwiebeln, Knoblauch und Ingwer hinzufügen und glasig dünsten",
+      "Currypulver, Kokosmilch und Tomatenstücke zugeben und köcheln lassen",
+      "Mit Reis servieren"
+    ],
+    "rating": 5,
+    "ingredients": [
+      {
+        "name": "Hähnchenbrustfilet",
+        "amount": "500g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": "1 Stück"
+      },
+      {
+        "name": "Knoblauchzehe",
+        "amount": "2 Stück"
+      },
+      {
+        "name": "Ingwer",
+        "amount": "1 kleines Stück"
+      },
+      {
+        "name": "Currypulver",
+        "amount": "2 TL"
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": "400ml"
+      },
+      {
+        "name": "Tomaten",
+        "amount": "400g"
+      },
+      {
+        "name": "Reis",
+        "amount": "200g"
+      }
+    ]
+  },
+  {
+    "id": "8A93E9B1-08E7-47F0-8C20-14A4E4D4A483",
+    "name": "Caprese Salad",
+    "category": "Salad",
+    "imageName": "caprese.jpg",
+    "description": "Ein einfacher Italienischer Tomaten-Mozzarella-Salat",
+    "instructions": [
+      "Tomaten und Mozzarella in Scheiben schneiden",
+      "Auf einem Teller abwechselnd Tomaten- und Mozzarellascheiben anrichten",
+      "Basilikumblätter darüber verteilen",
+      "Mit Olivenöl beträufeln und mit Balsamico-Creme garnieren"
+    ],
+    "rating": 3,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amount": "3 Stück"
+      },
+      {
+        "name": "Mozzarella",
+        "amount": "125g"
+      },
+      {
+        "name": "Basilikum",
+        "amount": "einige Blätter"
+      },
+      {
+        "name": "Olivenöl",
+        "amount": "2 EL"
+      },
+      {
+        "name": "Balsamico-Creme",
+        "amount": "1 EL"
+      }
+    ]
+  }
 ]

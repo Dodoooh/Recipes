@@ -1,113 +1,59 @@
-[
-  {
-    "id": "F3ED13C3-0BCC-4792-B8D5-78E91FADDF79",
-    "name": "Spaghetti Bolognese",
-    "category": "Pasta",
-    "imageName": "spaghetti.jpg",
-    "description": "Ein klassisches Nudelgericht aus Italien",
-    "instructions": [
-      "Nudeln in Salzwasser kochen",
-      "Hackfleisch anbraten und mit Tomatensauce vermengen",
-      "Nudeln mit Sauce servieren"
-    ],
-    "rating": 4,
-    "ingredients": [
-      {
-        "name": "Spaghetti",
-        "amount": "500g"
-      },
-      {
-        "name": "Hackfleisch",
-        "amount": "250g"
-      },
-      {
-        "name": "Tomatensauce",
-        "amount": "400g"
-      }
-    ]
-  },
-  {
-    "id": "8A93E9B1-08E7-47F0-8C20-14A4E4D4A483",
-    "name": "Chicken Curry",
-    "category": "Curry",
-    "imageName": "curry.jpg",
-    "description": "Ein würziges Hähnchengericht aus Indien",
-    "instructions": [
-      "Hähnchenbrustfilet in Würfel schneiden und anbraten",
-      "Zwiebeln, Knoblauch und Ingwer hinzufügen und glasig dünsten",
-      "Currypulver, Kokosmilch und Tomatenstücke zugeben und köcheln lassen",
-      "Mit Reis servieren"
-    ],
-    "rating": 5,
-    "ingredients": [
-      {
-        "name": "Hähnchenbrustfilet",
-        "amount": "500g"
-      },
-      {
-        "name": "Zwiebel",
-        "amount": "1 Stück"
-      },
-      {
-        "name": "Knoblauchzehe",
-        "amount": "2 Stück"
-      },
-      {
-        "name": "Ingwer",
-        "amount": "1 kleines Stück"
-      },
-      {
-        "name": "Currypulver",
-        "amount": "2 TL"
-      },
-      {
-        "name": "Kokosmilch",
-        "amount": "400ml"
-      },
-      {
-        "name": "Tomaten",
-        "amount": "400g"
-      },
-      {
-        "name": "Reis",
-        "amount": "200g"
-      }
-    ]
-  },
-  {
-    "id": "8A93E9B1-08E7-47F0-8C20-14A4E4D4A483",
-    "name": "Caprese Salad",
-    "category": "Salad",
-    "imageName": "caprese.jpg",
-    "description": "Ein einfacher Italienischer Tomaten-Mozzarella-Salat",
-    "instructions": [
-      "Tomaten und Mozzarella in Scheiben schneiden",
-      "Auf einem Teller abwechselnd Tomaten- und Mozzarellascheiben anrichten",
-      "Basilikumblätter darüber verteilen",
-      "Mit Olivenöl beträufeln und mit Balsamico-Creme garnieren"
-    ],
-    "rating": 3,
-    "ingredients": [
-      {
-        "name": "Tomaten",
-        "amount": "3 Stück"
-      },
-      {
-        "name": "Mozzarella",
-        "amount": "125g"
-      },
-      {
-        "name": "Basilikum",
-        "amount": "einige Blätter"
-      },
-      {
-        "name": "Olivenöl",
-        "amount": "2 EL"
-      },
-      {
-        "name": "Balsamico-Creme",
-        "amount": "1 EL"
-      }
-    ]
-  }
-]
+{
+  "id": "C2D402A3-D1F1-4C20-B3A3-9C87B28FD33B",
+  "name": "Schokoladenkuchen",
+  "category": "Kuchen",
+  "imageName": "schokoladenkuchen.jpg",
+  "description": "Ein saftiger Schokoladenkuchen mit Schokoladenglasur",
+  "instructions": [
+    "Butter und Zucker schaumig schlagen",
+    "Eier unterrühren",
+    "Mehl, Kakao und Backpulver vermischen und unterheben",
+    "Milch hinzufügen und gut verrühren",
+    "In eine gefettete Kuchenform geben und bei 180°C ca. 40 Minuten backen",
+    "Aus dem Ofen nehmen und auskühlen lassen",
+    "Schokolade schmelzen und auf den Kuchen geben"
+  ],
+  "rating": 4,
+  "ingredients": [
+    {
+      "id": "22EFA2E5-7D68-48FE-99AF-C70383533935",
+      "name": "Butter",
+      "quantity": 150
+    },
+    {
+      "id": "E0CFE5FC-39CE-409C-9C0C-8EBBBDF5D5EC",
+      "name": "Zucker",
+      "quantity": 200
+    },
+    {
+      "id": "207E2BE4-ED71-4CB6-BF1E-56EA2F9D7FFB",
+      "name": "Eier",
+      "quantity": 3
+    },
+    {
+      "id": "6F9A41C2-2D61-410E-A67E-F10EECC65C82",
+      "name": "Mehl",
+      "quantity": 150
+    },
+    {
+      "id": "1AB52B56-2383-47DC-AAC3-993262B7529C",
+      "name": "Kakao",
+      "quantity": 50
+    },
+    {
+      "id": "09C77A93-CA0A-4C06-AF4B-72BE15C97F19",
+      "name": "Backpulver",
+      "quantity": 1
+    },
+    {
+      "id": "A25B30FB-6F24-4E29-9862-261A11F22678",
+      "name": "Milch",
+      "quantity": 100
+    },
+    {
+      "id": "C2647D3C-26D4-4B34-B152-1330B0F3B59E",
+      "name": "Schokolade",
+      "quantity": 100
+    }
+  ]
+}

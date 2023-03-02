@@ -1,0 +1,97 @@
+{
+  "recipes": [
+    {
+      "name": "Nudeln mit Tomatensauce",
+      "category": "Hauptgericht",
+      "imageName": "nudeln-mit-tomatensauce",
+      "description": "Einfaches und schnelles Nudelgericht mit einer leckeren Tomatensauce.",
+      "instructions": [
+        "Nudeln in Salzwasser kochen.",
+        "Zwiebel und Knoblauch in Öl anbraten.",
+        "Tomatenmark hinzufügen und kurz mitbraten.",
+        "Dosentomaten und Gewürze hinzufügen und aufkochen lassen.",
+        "Sauce abschmecken und servieren."
+      ],
+      "rating": 4,
+      "ingredients": [
+        {
+          "name": "Nudeln",
+          "quantity": 250
+        },
+        {
+          "name": "Zwiebel",
+          "quantity": 1
+        },
+        {
+          "name": "Knoblauchzehe",
+          "quantity": 2
+        },
+        {
+          "name": "Dosentomaten",
+          "quantity": 400
+        },
+        {
+          "name": "Tomatenmark",
+          "quantity": 2
+        },
+        {
+          "name": "Salz",
+          "quantity": 1
+        },
+        {
+          "name": "Pfeffer",
+          "quantity": 1
+        },
+        {
+          "name": "Oregano",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Apfelkuchen",
+      "category": "Dessert",
+      "imageName": "apfelkuchen",
+      "description": "Ein saftiger Apfelkuchen mit Zimt und Mandeln.",
+      "instructions": [
+        "Äpfel schälen, entkernen und in Stücke schneiden.",
+        "Mehl, Zucker, Butter, Ei und Mandeln zu einem Teig verkneten.",
+        "Teig in eine gefettete Springform geben und glattstreichen.",
+        "Apfelstücke auf dem Teig verteilen.",
+        "Zimt und Zucker darüberstreuen.",
+        "Im vorgeheizten Ofen bei 180°C ca. 45 Minuten backen."
+      ],
+      "rating": 5,
+      "ingredients": [
+        {
+          "name": "Äpfel",
+          "quantity": 5
+        },
+        {
+          "name": "Mehl",
+          "quantity": 250
+        },
+        {
+          "name": "Zucker",
+          "quantity": 150
+        },
+        {
+          "name": "Butter",
+          "quantity": 125
+        },
+        {
+          "name": "Ei",
+          "quantity": 1
+        },
+        {
+          "name": "Mandeln",
+          "quantity": 50
+        },
+        {
+          "name": "Zimt",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

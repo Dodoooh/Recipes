@@ -1,0 +1,97 @@
+[
+  {
+    "id": "C8529E0B-D487-4D6F-8A86-0A4D7D74E002",
+    "category": "Desserts",
+    "name": "Apple Pie",
+    "imageURL": "https://example.com/apple-pie.jpg",
+    "description": "A classic American pie made with fresh apples and a buttery crust.",
+    "rating": 4,
+    "instructions": [
+      "Preheat the oven to 375°F (190°C).",
+      "Peel, core, and slice the apples into thin wedges.",
+      "In a large bowl, toss the apples with sugar, flour, cinnamon, nutmeg, and salt.",
+      "Roll out the pie crust and place it in a 9-inch pie dish.",
+      "Pour the apple mixture into the crust.",
+      "Dot the top of the apples with butter.",
+      "Cover the pie with the second pie crust and crimp the edges to seal.",
+      "Cut slits in the top of the pie to allow steam to escape.",
+      "Bake for 45 to 50 minutes, or until the crust is golden brown and the filling is bubbly.",
+      "Allow to cool before serving."
+    ],
+    "ingredients": [
+      {
+        "id": "92BB22C4-F181-4EA8-98BD-C9C04A7A12D1",
+        "name": "pie crust",
+        "quantity": 2,
+        "unit": ""
+      },
+      {
+        "id": "69AC062A-1DD3-4481-BB3E-3F16684EC845",
+        "name": "apples",
+        "quantity": 6,
+        "unit": ""
+      },
+      {
+        "id": "8B31BBAE-ABE9-40F0-A59F-7B90A272FAED",
+        "name": "sugar",
+        "quantity": 1,
+        "unit": "cup"
+      },
+      {
+        "id": "4C4D44FF-97D7-4A9E-9C99-827F8FD5ECCF",
+        "name": "flour",
+        "quantity": 2,
+        "unit": "tbsp"
+      },
+      {
+        "id": "ECF68E70-4BE4-41A4-873E-214E1223B3B8",
+        "name": "cinnamon",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "id": "89DCDB05-EF10-489D-8703-68635225AA28",
+        "name": "nutmeg",
+        "quantity": 1,
+        "unit": "tsp"
+      },
+      {
+        "id": "2ECC9C62-947C-4EF1-BB7B-12888FB29E80",
+        "name": "salt",
+        "quantity": 1,
+        "unit": "pinch"
+      },
+      {
+        "id": "3D8F54F3-72BB-4BB3-9B8B-6A5FE0873305",
+        "name": "butter",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ]
+  },
+  {
+    "id": "A78CD51A-67F4-4637-95CC-9B651D32D1C8",
+    "category": "Main Dishes",
+    "name": "Chicken Stir Fry",
+    "imageURL": "https://example.com/chicken-stir-fry.jpg",
+    "description": "A quick and easy stir fry that's perfect for busy weeknights.",
+    "rating": 3,
+    "instructions": [
+      "Heat the oil in a large skillet over high heat.",
+      "Add the chicken and stir fry for 2 to 3 minutes, or until browned.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the vegetables to the skillet and stir fry for 2 to 3 minutes, or until tender.",
+      "Return the chicken to the skillet and add the soy sauce, hoisin sauce, and garlic.",
+      "Stir fry for an additional 1 to 2 minutes, or until heated through.",
+      "Serve over rice or noodles."
+    ],
+    "ingredients": [
+      {
+        "id": "B0D8CCF3-72BB-4BB3-9B8B-6A5FE0873305",
+        "name": "butter",
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    ]
+  }
+]

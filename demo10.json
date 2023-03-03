@@ -1,0 +1,115 @@
+[
+    {
+        "id": "7FEC8E1A-9CDD-47AA-BD7C-0D2ED5047EFE",
+        "name": "Käsespätzle",
+        "category": "Hauptgericht",
+        "imageName": "kaesespaetzle",
+        "description": "Ein traditionelles Gericht aus Schwaben mit Käse und Spätzle. Ein traditionelles Gericht aus Schwaben mit Käse und Spätzle. Ein traditionelles Gericht aus Schwaben mit Käse und Spätzle. Ein traditionelles Gericht aus Schwaben mit Käse und Spätzle.",
+        "instructions": [
+            "Die Spätzle nach Packungsanweisung kochen.",
+            "Den Backofen auf 200°C vorheizen.",
+            "Inzwischen eine Zwiebel schälen und in Ringe schneiden.",
+            "Die Butter in einer Pfanne erhitzen und die Zwiebelringe darin andünsten.",
+            "Die Spätzle mit den Zwiebeln in eine Auflaufform geben und vermengen.",
+            "Den geriebenen Emmentaler darüberstreuen und im vorgeheizten Ofen etwa 10 Minuten überbacken."
+        ],
+        "rating": 4,
+        "ingredients": [
+            {
+                "id": "BFD843F3-0D0E-4BCE-A6B5-F68BD5DA5C17",
+                "name": "Spätzle",
+                "quantity": 500,
+                "unit": "gramm"
+            },
+            {
+                "id": "A927DB72-D7DC-452E-96C7-8BB93CC64E7B",
+                "name": "Butter",
+                "quantity": 50,
+                "unit": "gramm"
+            },
+            {
+                "id": "82AC01CD-C427-495D-A45A-83F54F893EB0",
+                "name": "Zwiebel",
+                "quantity": 1,
+                "unit": "Stück"
+            },
+            {
+                "id": "8B24A376-003C-40E0-8917-8BC749C2D7E6",
+                "name": "Emmentaler",
+                "quantity": 150,
+                "unit": "gramm"
+            }
+        ]
+    },
+    {
+        "id": "B6B43795-DD77-4C75-B4AD-9FCF4D55E08C",
+        "name": "Schokoladenkuchen",
+        "category": "Dessert",
+        "imageName": "schokoladenkuchen",
+        "description": "Ein saftiger Schokoladenkuchen mit Schokostückchen.",
+        "instructions": [
+            "Den Backofen auf 180°C vorheizen.",
+            "Die Butter und die Schokolade in einem Topf schmelzen lassen.",
+            "Die Eier mit dem Zucker schaumig schlagen.",
+            "Das Mehl, das Backpulver und das Salz vermengen und unter die Eimasse rühren.",
+            "Die geschmolzene Schokoladenmischung unterheben.",
+            "Die Schokostückchen grob hacken und ebenfalls unterheben.",
+            "Den Teig in eine gefettete Springform geben und glatt streichen.",
+            "Im vorgeheizten Ofen etwa 30 Minuten backen.",
+            "Den Kuchen aus der Form lösen und auf einem Kuchengitter auskühlen lassen."
+        ],
+        "rating": 5,
+        "ingredients": [
+            {
+                "id": "E6FE157A-84EF-4A33-BA94-D67F04D2C34F",
+                "name": "Butter",
+                "quantity": 152,
+                "unit": "gramm"
+            },
+            {
+                "id": "B4E1B0DE-6341-44D6-AEEB-6D93632D02B6",
+                "name": "Schokolade",
+                "quantity": 157,
+                "unit": "gramm"
+            },
+            {
+                "id": "BC756672-93A9-41A0-AE60-93CD8EA97A13",
+                "name": "Eier",
+                "quantity": 2,
+                "unit": "Stück"
+            },
+            {
+                "id": "A8C7060B-87D6-492A-A81D-8BEFEC74FB07",
+                "name": "Zucker",
+                "quantity": 155,
+                "unit": "gramm"
+            },
+            {
+                "id": "9410C06B-ACA9-498A-9E1C-AB37C25B428E",
+                "name": "Mehl",
+                "quantity": 159,
+                "unit": "gramm"
+            }
+        ]
+    },
+{
+   "rating":2,
+   "category":"Test",
+   "ingredients":[
+      {
+         "quantity":1000,
+         "id":"68842EB9-DFDD-4757-83E6-9E68D7D2F98C",
+         "name":"Nix",
+         "unit":""
+      }
+   ],
+   "instructions":[
+      "1. Schritt",
+      "2. Schritt Fertig"
+   ],
+   "id":"EBBF0FC1-9DAA-47A6-BC73-B9F8D13AD5F3",
+   "description":"Beschreibung test",
+   "imageName":"bananeneis.png",
+   "name":"Testrezept"
+}
+]
